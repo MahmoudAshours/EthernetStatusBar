@@ -31,7 +31,7 @@ Built with **SwiftUI** and **NWPathMonitor**, it's a helpful utility for develop
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/your-username/EthernetStatusBar.git
+git clone https://github.com/MahmoudAshours/EthernetStatusBar.git
 cd EthernetStatusBar
 open EthernetStatusBar.xcodeproj
 ```
