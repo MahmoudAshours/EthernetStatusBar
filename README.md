@@ -54,14 +54,14 @@ Type: Boolean
 Value: YES
 
 ## Directory structure
-
+```
 EthernetStatusBar/
 ├── EthernetStatusBarApp.swift    # App entry point
 ├── Info.plist                    # App metadata (agent mode)
 ├── EthernetMonitor.swift         # Network path monitor class
 ├── Assets.xcassets
 └── Preview Content/
-
+```
 ### 🧩 To-Do
 
 - [ ] Add launch-at-login toggle inside app
